@@ -5,7 +5,6 @@ php:
   - hhvm
   - nightly
 before_install:
-  - sudo apt-get install -qq graphviz
   - composer install
 script:
   - php vendor/bin/phpunit ./tests/
