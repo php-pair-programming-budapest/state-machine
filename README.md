@@ -26,4 +26,4 @@ if ($model->getState()->canChangeStatus($ordered)) {
 
 ## Test
 
-[![Build Status](https://travis-ci.org/php-pair-programming-budapest/dependency-injection.svg?branch=master)](https://travis-ci.org/php-pair-programming-budapest/dependency-injection)
+[![Build Status](https://travis-ci.org/php-pair-programming-budapest/state-machine.svg?branch=master)](https://travis-ci.org/php-pair-programming-budapest/state-machine)
